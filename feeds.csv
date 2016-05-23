@@ -1,7 +1,10 @@
 Date,Food,Offered,Eaten
 2014-09-28,Pinky,1,1
-2014-10-02,Pinky,2,2
+WAT
 2014-10-06,Pinky,2,1
+2014-10-02,Pinky,2,2
+
+EVEN
 2014-10-12,Pinky,2,0
 2014-10-19,Pinky,2,2
 2014-10-26,Pinky,3,3
@@ -34,7 +37,7 @@ Date,Food,Offered,Eaten
 2015-05-31,Hopper,1,1
 2015-06-07,Hopper,1,1
 2015-06-14,Hopper,1,1
-2015-06-21,Chopper,1,1
+2015-06-21,Hopper,1,1
 2015-07-05,Weaned Mouse,1,1
 2015-07-12,Weaned Mouse,1,1
 2015-07-19,Weaned Mouse,1,1
